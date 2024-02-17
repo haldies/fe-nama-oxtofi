@@ -1,6 +1,10 @@
 # Mega Menu Project
 
-This project is a mega menu implementation using React.
+Commit ini ada fitur Mega Nav Hover pada proyek menggunakan teknologi-teknologi berikut:
+- React sebagai library utama untuk membangun antarmuka pengguna.
+- Vite sebagai bundler yang dioptimalkan untuk proyek React.
+- Penggunaan CSS Module untuk mengisolasi gaya CSS secara lokal di setiap komponen.
+- Pemanfaatan TypeScript untuk memberikan dukungan tipe data statis.
 
 ## Dependencies
 
