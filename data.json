@@ -1,0 +1,524 @@
+{
+    "categories": [
+        {
+            "name": "Graphics & Design",
+            "subcategories": [
+                {
+                    "title": "Logo & Brand Identity",
+                    "list": [
+                        "Logo Design",
+                        "Brand Style Guides",
+                        "Business Cards & Stationery",
+                        "Fonts & Typography",
+                        "Logo Maker Tool",
+                        "Art & Illustration"
+                    ]
+                },
+                {
+                    "title": "Illustration",
+                    "list": [
+                        "AI Artists",
+                        "Children's Book Illustration",
+                        "Portraits & Caricatures",
+                        "Cartoons & Comics",
+                        "Pattern Design",
+                        "Tattoo Design",
+                        "Storyboards",
+                        "NFT Art"
+                    ]
+                },
+                {
+                    "title": "Miscellaneous",
+                    "list": [
+                        "Design Advice"
+                    ]
+                },
+                {
+                    "title": "Web & App Design",
+                    "list": [
+                        "Website Design",
+                        "App Design",
+                        "UX Design",
+                        "Landing Page Design",
+                        "Icon Design"
+                    ]
+                },
+                {
+                    "title": "Product & Gaming",
+                    "list": [
+                        "Industrial & Product Design",
+                        "Character Modeling",
+                        "Game Art",
+                        "Graphics for Streamers"
+                    ]
+                },
+                {
+                    "title": "Print Design",
+                    "list": [
+                        "Flyer Design",
+                        "Brochure Design",
+                        "Poster Design",
+                        "Catalog Design",
+                        "Menu Design"
+                    ]
+                },
+                {
+                    "title": "Visual Design",
+                    "list": [
+                        "Image Editing",
+                        "Presentation Design",
+                        "Background Removal",
+                        "Infographic Design",
+                        "Vector Tracing",
+                        "Resume Design"
+                    ]
+                },
+                {
+                    "title": "Marketing Design",
+                    "list": [
+                        "Social Media Design",
+                        "Social Posts & Banners",
+                        "Email Design",
+                        "Web Banners",
+                        "Signage Design"
+                    ]
+                },
+                {
+                    "title": "Packaging & Covers",
+                    "list": [
+                        "Packaging & Label Design",
+                        "Book Design",
+                        "Book Covers",
+                        "Album Cover Design"
+                    ]
+                },
+                {
+                    "title": "Architecture & Building Design",
+                    "list": [
+                        "Architecture & Interior Design",
+                        "Landscape Design",
+                        "Building Engineering"
+                    ]
+                },
+                {
+                    "title": "Fashion & Merchandise",
+                    "list": [
+                        "T-Shirts & Merchandise",
+                        "Fashion Design",
+                        "Jewelry Design"
+                    ]
+                },
+                {
+                    "title": "3D Design",
+                    "list": [
+                        "3D Architecture",
+                        "3D Industrial Design",
+                        "3D Fashion & Garment",
+                        "3D Printing Characters",
+                        "3D Landscape",
+                        "3D Game Art",
+                        "3D Jewelry Design"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Programming & Tech",
+            "subcategories": [
+                {
+                    "title": "Website Development",
+                    "list": [
+                        "Business Websites",
+                        "E-Commerce Development",
+                        "Landing Pages",
+                        "Dropshipping Websites",
+                        "Build a Complete Website"
+                    ]
+                },
+                {
+                    "title": "Website Platforms",
+                    "list": [
+                        "WordPress",
+                        "Shopify",
+                        "Wix",
+                        "Custom Websites",
+                        "GoDaddy"
+                    ]
+                },
+                {
+                    "title": "Website Maintenance",
+                    "list": [
+                        "Website Customization",
+                        "Bug Fixes",
+                        "Backup & Migration",
+                        "Speed Optimization"
+                    ]
+                },
+                {
+                    "title": "AI Development",
+                    "list": [
+                        "AI Chatbot",
+                        "AI Applications",
+                        "AI Integrations",
+                        "AI Agents",
+                        "AI Fine-Tuning",
+                        "Custom GPT Apps"
+                    ]
+                },
+                {
+                    "title": "Chatbots",
+                    "list": [
+                        "Discord Chatbots",
+                        "Telegram Chatbots",
+                        "BotPress Chatbots"
+                    ]
+                },
+                {
+                    "title": "Game Development",
+                    "list": [
+                        "PC Games",
+                        "Mobile Games",
+                        "Console Games",
+                        "VR Games",
+                        "Game Mods"
+                    ]
+                },
+                {
+                    "title": "Mobile App Development",
+                    "list": [
+                        "Cross-platform Development",
+                        "Android App Development",
+                        "iOS App Development",
+                        "Website to App",
+                        "Mobile App Maintenance"
+                    ]
+                },
+                {
+                    "title": "Support & Cybersecurity",
+                    "list": [
+                        "DevOps & Cloud",
+                        "Support & IT",
+                        "Cybersecurity"
+                    ]
+                },
+                {
+                    "title": "Convert Files",
+                    "list": [
+                        "Miscellaneous",
+                        "Electronics Engineering",
+                        "Development for Streamers"
+                    ]
+                },
+                {
+                    "title": "Blockchain & Cryptocurrency",
+                    "list": [
+                        "NFT Development"
+                    ]
+                },
+                {
+                    "title": "Software Development",
+                    "list": [
+                        "Web Applications",
+                        "Desktop Applications",
+                        "APIs & Integrations",
+                        "Scripting",
+                        "Browser Extensions"
+                    ]
+                },
+                {
+                    "title": "Software Developers",
+                    "list": [
+                        "Python Developers",
+                        "HTML & CSS Developers",
+                        "JavaScript Developers",
+                        "Java Developers",
+                        "PHP Developers"
+                    ]
+                },
+                {
+                    "title": "QA & Review",
+                    "list": [
+                        "Software Testing",
+                        "Code Review",
+                        "Design Review",
+                        "User Testing"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Digital Marketing",
+            "subcategories": [
+                {
+                    "title": "Search Engine Optimization (SEO)",
+                    "list": [
+                        "On-Page SEO",
+                        "Off-Page SEO",
+                        "Keyword Research",
+                        "SEO Audits",
+                        "Local SEO"
+                    ]
+                },
+                {
+                    "title": "Search Engine Marketing (SEM)",
+                    "list": [
+                        "Google Ads",
+                        "Bing Ads",
+                        "Paid Search Campaigns",
+                        "PPC Advertising"
+                    ]
+                },
+                {
+                    "title": "Social Media Marketing",
+                    "list": [
+                        "Facebook Marketing",
+                        "Instagram Marketing",
+                        "Twitter Marketing",
+                        "LinkedIn Marketing"
+                    ]
+                },
+                {
+                    "title": "Content Marketing",
+                    "list": [
+                        "Blogging",
+                        "Content Creation",
+                        "Content Distribution",
+                        "Content Strategy"
+                    ]
+                },
+                {
+                    "title": "Email Marketing",
+                    "list": [
+                        "Email Campaigns",
+                        "Automation",
+                        "List Building",
+                        "Email Analytics"
+                    ]
+                },
+                {
+                    "title": "Video Marketing",
+                    "list": [
+                        "YouTube Marketing",
+                        "Video Production",
+                        "Video Editing",
+                        "Live Streaming"
+                    ]
+                },
+                {
+                    "title": "E-Commerce Marketing",
+                    "list": [
+                        "Product Listings",
+                        "Shopping Ads",
+                        "Conversion Optimization",
+                        "Customer Retention"
+                    ]
+                },
+                {
+                    "title": "Analytics & Strategy",
+                    "list": [
+                        "Marketing Analytics",
+                        "Data-driven Decision Making",
+                        "Campaign Optimization",
+                        "ROI Analysis"
+                    ]
+                },
+                {
+                    "title": "Methods & Techniques",
+                    "list": [
+                        "SEO Best Practices",
+                        "Social Media Strategies",
+                        "Content Marketing Tactics",
+                        "Email Campaign Tips"
+                    ]
+                },
+                {
+                    "title": "Channel Specific",
+                    "list": [
+                        "TikTok Shop",
+                        "Facebook Ads Campaign",
+                        "Instagram Marketing",
+                        "Google SEM",
+                        "Shopify Marketing"
+                    ]
+                },
+                {
+                    "title": "Marketing Advice",
+                    "list": [
+                        "Industry Insights",
+                        "Marketing Trends",
+                        "Expert Advice",
+                        "Success Stories"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Video & Animation",
+            "subcategories": [
+                {
+                    "title": "Editing & Post-Production",
+                    "list": [
+                        "Video Editing",
+                        "Visual Effects",
+                        "Video Art",
+                        "Intro & Outro Videos",
+                        "Video Templates Editing",
+                        "Subtitles & Captions",
+                        "Find a long-term video editor"
+                    ]
+                },
+                {
+                    "title": "Social & Marketing Videos",
+                    "list": [
+                        "Video Ads & Commercials",
+                        "Social Media Videos",
+                        "UGC Videos ",
+                        "Music Videos",
+                        "Slideshow Videos"
+                    ]
+                },
+                {
+                    "title": "Animation",
+                    "list": [
+                        "Character Animation",
+                        "Animated GIFs",
+                        "Animation for Kids",
+                        "Animation for Streamers",
+                        "Rigging",
+                        "NFT Animation"
+                    ]
+                },
+                {
+                    "title": "Motion Graphics",
+                    "list": [
+                        "Logo Animation",
+                        "Lottie & Web Animation",
+                        "Text Animation"
+                    ]
+                },
+                {
+                    "title": "Filmed Video Production",
+                    "list": [
+                        "Videographers",
+                        "Filmed Video Production"
+                    ]
+                },
+                {
+                    "title": "Explainer Videos",
+                    "list": [
+                        "Animated Explainers",
+                        "Live Action Explainers",
+                        "Spokesperson Videos",
+                        "Screencasting Videos",
+                        "eLearning Video Production",
+                        "Crowdfunding Videos"
+                    ]
+                },
+                {
+                    "title": "Miscellaneous",
+                    "list": [
+                        "Article to Video",
+                        "Game Trailers",
+                        "Meditation Videos",
+                        "Real Estate Promos",
+                        "Book Trailers",
+                        "Video Advice",
+                        "Other"
+                    ]
+                },
+                {
+                    "title": "Photography",
+                    "list": [
+                        "Product Photographers",
+                        "Portrait Photographers",
+                        "Lifestyle & Fashion Photographers",
+                        "Local Photographers"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Writing & Translation",
+            "subcategories": [
+                {
+                    "title": "Content Writing",
+                    "list": [
+                        "Articles & Blog Posts",
+                        "Content Strategy",
+                        "Website Content",
+                        "Scriptwriting",
+                        "Creative Writing",
+                        "Podcast Writing",
+                        "Speechwriting",
+                        "Research & Summaries",
+                        "Find an Expert Writer"
+                    ]
+                },
+                {
+                    "title": "Industry Specific Content",
+                    "list": [
+                        "Business, Finance & Law",
+                        "Health & Medical",
+                        "Internet & Technology",
+                        "News & Politics",
+                        "Marketing",
+                        "Real Estate"
+                    ]
+                },
+                {
+                    "title": "Editing & Critique",
+                    "list": [
+                        "Proofreading & Editing",
+                        "AI Content Editing",
+                        "Writing Advice"
+                    ]
+                },
+                {
+                    "title": "Book & eBook Publishing",
+                    "list": [
+                        "Book & eBook Writing",
+                        "Book Editing",
+                        "Beta Reading",
+                        "Self-Publish Your Book"
+                    ]
+                },
+                {
+                    "title": "Career Writing",
+                    "list": [
+                        "Resume Writing",
+                        "Cover Letters",
+                        "LinkedIn Profiles",
+                        "Job Descriptions"
+                    ]
+                },
+                {
+                    "title": "Business & Marketing Copy",
+                    "list": [
+                        "Brand Voice & Tone",
+                        "Business Names & Slogans",
+                        "Case Studies",
+                        "White Papers"
+                    ]
+                },
+                {
+                    "title": "Translation & Transcription",
+                    "list": [
+                        "Translation",
+                        "Localization",
+                        "Transcription"
+                    ]
+                },
+                {
+                    "title": "Miscellaneous",
+                    "list": [
+                        "eLearning Content Development",
+                        "Technical Writing",
+                        "Grant Writing",
+                        "Custom Writing Prompts",
+                        "Other"
+                    ]
+                }
+            ]
+        }
+    ]
+}
